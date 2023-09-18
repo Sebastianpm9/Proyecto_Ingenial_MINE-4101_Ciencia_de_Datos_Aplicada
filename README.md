@@ -1,4 +1,4 @@
-![image](https://github.com/Sebastianpm9/Proyecto_Ingenial_MINE-4101_Ciencia_de_Datos_Aplicada/assets/142349714/1eee83b1-ca9c-427c-a92b-39079dcd41e4)# Proyecto_Ingenial_MINE-4101_Ciencia_de_Datos_Aplicada
+# Proyecto_Ingenial_MINE-4101_Ciencia_de_Datos_Aplicada
 
 Proyecto Ingenial: 
 
