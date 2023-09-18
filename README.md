@@ -1,4 +1,4 @@
-# Proyecto_Ingenial_MINE-4101_Ciencia_de_Datos_Aplicada
+![image](https://github.com/Sebastianpm9/Proyecto_Ingenial_MINE-4101_Ciencia_de_Datos_Aplicada/assets/142349714/1eee83b1-ca9c-427c-a92b-39079dcd41e4)# Proyecto_Ingenial_MINE-4101_Ciencia_de_Datos_Aplicada
 
 Proyecto Ingenial: 
 
@@ -14,6 +14,12 @@ Una vez se hayan cumplido los objetivos, la efectividad del modelo propuesto pod
 
 ■ Integrantes: Bohórquez, Rubén; Parrado, Sebastián; Ramos, Daniel.
 
-■ Librerías
+■ Librerias: 
+
+Ingenial.ipynb: Contiene el analisis realizado de la información en un archivo de Jupyter Notebook 
+PROYECTO.pdf: Contiene el documento en PDF donde se centralizara la información de cada entrega, en este momento esta disponible el contenido de la entrea 1.
+data_candidatos.xlsx: Contiene la base de datos de los candidatos en formato xlsx
+data_divipol.xlsx: Contiene la base de datos de las mesas de votación en formato xlsx
+partidos_2022.xlsx: Contiene la la base de datos de los partidos politicos activos en 2022 en formato xlsx
 
  
